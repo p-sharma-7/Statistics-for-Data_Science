@@ -1,7 +1,7 @@
 # Statistics-for-Data_Science
 This is practical implementation for statistic for data science in python. this repo can be a part of your  data science journey.
 
-<h3>Day1 - Day4 : introduction Probability </h3>
+<h3>Introduction Probability </h3>
 DAY1 : Probability & Axioms of prob
 Day2 : Discrete Random Variable 
 Day3 : Continous Random variable
