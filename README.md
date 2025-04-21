@@ -1,28 +1,28 @@
-# 📊 Statistics for Data Science
+# Statistics for Data Science
 
 Welcome to the **Statistics for Data Science** repository!  
 This repository is a collection of foundational concepts, Python implementations, and practical examples in statistics aimed at building a solid base for data science and analytics.
 
 ---
 
-## 🚀 Objective
+## Objective
 
 This repository serves as a personal learning space where I explore and apply fundamental statistical concepts that are essential in data science. The goal is to break down key topics—from descriptive stats to hypothesis testing—and understand how they connect with real-world data analysis. All examples and notebooks are written in Python to make the learning process more practical and hands-on.
 
 ---
 
-# 📊 Statistics for Data Science
+# Statistics for Data Science
 
 Welcome to the **Statistics for Data Science** repository! This project is a personal resource and portfolio where I explore the fundamental statistical concepts and their applications in data science using Python.
 
-## 🚀 Goal
+## Goal
 
 The primary goal of this repository is to demonstrate my foundational understanding of statistics through hands-on Python code, visualizations, and real-world datasets.
 
 ---
 
 
-## 📚 Topics Covered
+## Topics Covered
 
 1. **Descriptive Statistics**
    - Central tendency and dispersion measures
@@ -64,7 +64,7 @@ The primary goal of this repository is to demonstrate my foundational understand
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3.12
 - Google collab notebook
@@ -115,19 +115,19 @@ Statistics-for-Data_Science/
 ```
 ---
 
-## 🌟 Why This Repo?
+## Why This Repo?
 
 This repository is designed not only to strengthen my grasp on statistics but also to serve as a reference for others looking to start or revise their statistical journey in data science.
 
 ---
 
-## 🧠 Contributions
+## Contributions
 
 I'm constantly updating this repository. Feel free to fork, star ⭐, or suggest improvements through issues or PRs!
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any queries or suggestions:  
 📧 https://www.linkedin.com/in/pushkar-sharma-082755295/
