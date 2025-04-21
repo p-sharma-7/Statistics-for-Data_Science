@@ -103,7 +103,11 @@ Statistics-for-Data_Science/
 ├── Datasets/
 │   └── titanic.csv
 │   └── iris.csv
-│
+|
+├──Cheatsheets
+|
+├──Handwritten notes
+|
 └── README.md
 
 
