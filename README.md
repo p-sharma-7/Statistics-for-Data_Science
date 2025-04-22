@@ -11,15 +11,6 @@ This repository serves as a personal learning space where I explore and apply fu
 
 ---
 
-# Statistics for Data Science
-
-Welcome to the **Statistics for Data Science** repository! This project is a personal resource and portfolio where I explore the fundamental statistical concepts and their applications in data science using Python.
-
-## Goal
-
-The primary goal of this repository is to demonstrate my foundational understanding of statistics through hands-on Python code, visualizations, and real-world datasets.
-
----
 
 
 ## Topics Covered
@@ -30,9 +21,11 @@ The primary goal of this repository is to demonstrate my foundational understand
 
 2. **Data Visualization**
    - Histograms, Boxplots, Scatterplots, Heatmaps
+   - Mini project based on Data Visulization
 
 3. **Exploratory Data Analysis (EDA)**
    - Summary stats, outlier handling, feature analysis
+   - Mini project based on EDA
 
 4. **Probability Theory**
    - Probability rules, Bayes’ theorem, common distributions
