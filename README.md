@@ -16,22 +16,46 @@ This repository serves as a personal learning space where I explore and apply fu
 ## Topics Covered
 
 1. **Descriptive Statistics**
-   - Central tendency and dispersion measures
+   - Central tendency
+   - dispersion measures
    - Skewness and kurtosis
 
 2. **Data Visualization**
-   - Histograms, Boxplots, Scatterplots, Heatmaps
-   - Mini project based on Data Visulization
+   - basic plot for categorical visualization
+        * bar chart
+        * Pie chart
+        * Count Plot
+        * Grouped bar plot
+   - Temporal Trend visualization
+        * Line chart
+        * Area chart
+   - Statistical Distribution visualization
+        * Histrogram
+        * Box plot
+        * Violin plot
+   - Hierarchical data visualization
+        * Tree chart
+   - Geospatial Maps: Plotting Location Data 
 
 3. **Exploratory Data Analysis (EDA)**
-   - Summary stats, outlier handling, feature analysis
-   - Mini project based on EDA
-
+   - Foundation of EDA
+        * History of EDA
+        * key objective of EDA
+   - Types of EDA
+        * Univarite Analysis
+        * Bivariate Analysis
+        * Multivariate Analysis
+   - Example of Systematic Procedure of EDA
+     
 4. **Probability Theory**
-   - Probability rules, Bayes’ theorem, common distributions
+   - Probability axioms
+   - Bayes’ theorem
+   - common distributions
 
 5. **Inferential Statistics**
-   - Sampling, Hypothesis Testing, Confidence Intervals
+   - Sampling
+   - Hypothesis Testing
+   - Confidence Intervals
 
 6. **Machine Learning**
    - KNN
@@ -71,35 +95,39 @@ This repository serves as a personal learning space where I explore and apply fu
 Statistics-for-Data_Science/
 │
 ├── Descriptive_Statistics/
-│   └── central_tendency.ipynb
-│   └── variability_measures.ipynb
+│   └── Descriptive_Statistics.ipynb
 │
 ├── Data_Visualization/
-│   └── histograms_boxplots.ipynb
-│   └── correlation_heatmaps.ipynb
+│   └── Data_Visualization_ipynb
+│   └── mini project (to be updated)
 │
 ├── EDA/
-│   └── titanic_eda.ipynb
-│   └── iris_eda.ipynb
+│   └── EDA.ipynb
+│   └── Time Series Analysis.ipynb (to be updated)
+│   └── Spatial Analysis.ipynb (to be updated)
+│   └── Text Analysis.ipynb (to be updated)
+│   └── mini project (to be updated)
 │
 ├── Probability/
 │   └── probability and axiom of prob.ipynb
 │   └── distributions.ipynb
 │
 ├── Inferential_Statistics/
+│   └── Ordered Statistic.ipynb
+│   └── Random Sampling.ipynb
 │   └── hypothesis_testing.ipynb
 │   └── confidence_intervals.ipynb
 │
 ├── Machine Learning /
 │   └── Combined ML practical implementation
 │
-├── Datasets/
-│   └── titanic.csv
-│   └── iris.csv
+├── Handwritten notes/
+│   └── hand written Probability notes.pdf
+│   └── hand written Statistic notes.pdf (to be updated)
 │
 ├──Cheatsheets
-│
-├──Handwritten notes
+│   └──cheatsheet-probability.pdf
+│   └──cheatsheet-statistic.pdf
 │
 └── README.md
 
